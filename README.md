@@ -1,3 +1,2 @@
 # vendor_xiaomi_fuxi
-
-https://codeberg.org/xt0032rus/vendor_xiaomi_fuxi/src/branch/cr
+https://codeberg.org/xt0032rus/proprietary_vendor_xiaomi_fuxi
